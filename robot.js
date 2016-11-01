@@ -36,5 +36,5 @@ http.get(url, function(res) {
 		console.log(content);
 	});
 }).on('error', function() {
-	console.log('访问失败');
+	console.log('访问失败')
 });
