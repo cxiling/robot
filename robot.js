@@ -37,4 +37,4 @@ http.get(url, function(res) {
 	});
 }).on('error', function() {
 	console.log('访问失败')
-});
+})
