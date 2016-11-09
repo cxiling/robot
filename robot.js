@@ -34,7 +34,7 @@ http.get(url, function(res) {
 	res.on('end', function() {
 		var content = filterContent(html);
 		console.log(content);
-	});
+	})
 }).on('error', function() {
 	console.log('访问失败')
 })
