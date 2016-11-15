@@ -25,7 +25,7 @@ function filterContent(html){
 }
 
 http.get(url, function(res) {
-	var html = '';
+	var html = ''
 
 	res.on('data', function(data) {
 		html += iconv.decode(data, 'gb2312');
