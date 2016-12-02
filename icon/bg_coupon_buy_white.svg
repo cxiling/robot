@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="160px" height="95px" viewBox="0 0 160 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>bg_coupon_buy_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,40 L0,2.00612895 C0,0.898174524 0.899814069,0 1.99402962,0 L158.00597,0 C159.107243,0 160,0.894731964 160,2.00612895 L160,40 C157.790861,40 156,41.790861 156,44 C156,46.209139 157.790861,48 160,48 L160,92.9938711 C160,94.1018255 159.100186,95 158.00597,95 L1.99402962,95 C0.89275747,95 0,94.105268 0,92.9938711 L0,48 C2.209139,48 4,46.209139 4,44 C4,41.790861 2.209139,40 0,40 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="160" height="95" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="代金券秒杀" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="购买游戏代金券" transform="translate(-16.000000, -275.000000)">
+            <g id="Group-3-Copy-2" transform="translate(16.000000, 275.000000)">
+                <g id="Group-Copy-2">
+                    <g id="Group-3">
+                        <use id="Combined-Shape" stroke="#E3E3E3" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <path d="M5,44 L155,44" id="Line" stroke="#ECECEC" stroke-width="0.5" stroke-dasharray="3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

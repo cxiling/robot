@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="13px" viewBox="0 0 20 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_exp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.219607843   0 0 0 0 0.207843137   0 0 0 0 0.0745098039  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="20" height="13" rx="1"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="13" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="任务系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新手任务" transform="translate(-24.000000, -526.000000)">
+            <g filter="url(#filter-1)" transform="translate(8.000000, 448.000000)" id="L1">
+                <g transform="translate(0.000000, 39.000000)">
+                    <g id="Group-4" transform="translate(16.000000, 14.000000)">
+                        <g id="Group-9" transform="translate(0.000000, 23.000000)">
+                            <g id="Group-11" transform="translate(0.000000, 1.500000)">
+                                <g id="经验" transform="translate(0.000000, 0.500000)">
+                                    <g id="ic_exp">
+                                        <use id="Rectangle-7" stroke="#1EBEF6" mask="url(#mask-3)" stroke-width="1.6" xlink:href="#path-2"></use>
+                                        <path d="M3.08386184,2.698 L3.08386184,8.65113158 L7.50285307,8.65113158 L7.50285307,7.87572368 L3.99267325,7.87572368 L3.99267325,5.9830614 L7.16100658,5.9830614 L7.16100658,5.20765351 L3.99267325,5.20765351 L3.99267325,3.47340789 L7.36111184,3.47340789 L7.36111184,2.698 L3.08386184,2.698 Z M8.0781557,4.3405307 L9.57060746,6.35825877 L7.88638816,8.65113158 L8.92860307,8.65113158 L10.0625329,7.00860088 L11.188125,8.65113158 L12.2220022,8.65113158 L10.5461206,6.35825877 L12.0385724,4.3405307 L11.0046952,4.3405307 L10.0625329,5.70791667 L9.11203289,4.3405307 L8.0781557,4.3405307 Z M14.9234232,4.22380263 C14.3397829,4.22380263 13.8895461,4.43224561 13.5893882,4.8574693 L13.5893882,4.3405307 L12.7639539,4.3405307 L12.7639539,10.302 L13.6477522,10.302 L13.6477522,8.01746491 C13.9979364,8.51772807 14.4314978,8.76785965 14.9651118,8.76785965 C15.5821031,8.76785965 16.0740285,8.54274123 16.4242127,8.09250439 C16.7493838,7.67561842 16.9161382,7.15034211 16.9161382,6.51667544 C16.9161382,5.84965789 16.7493838,5.31604386 16.415875,4.89915789 C16.0490154,4.44892105 15.5570899,4.22380263 14.9234232,4.22380263 Z M14.7900197,4.94084649 C15.2235811,4.94084649 15.5404145,5.09092544 15.7488575,5.40775877 C15.9156118,5.67456579 16.0073268,6.04142544 16.0073268,6.51667544 C16.0073268,6.99192544 15.9072741,7.35878509 15.7238443,7.62559211 C15.5154013,7.90907456 15.198568,8.05081579 14.7650066,8.05081579 C14.4314978,8.05081579 14.1646908,7.91741228 13.9645855,7.65894298 C13.7311294,7.37546053 13.622739,7.00026316 13.622739,6.5416886 L13.622739,6.46664912 C13.622739,6.02475 13.7144539,5.66622807 13.8978838,5.39942105 C14.1063268,5.09092544 14.4064846,4.94084649 14.7900197,4.94084649 Z" id="Exp" fill="#1EBEF6"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_beginner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.219607843   0 0 0 0 0.207843137   0 0 0 0 0.0745098039  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="任务系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新手任务" transform="translate(-24.000000, -457.000000)">
+            <g filter="url(#filter-1)" transform="translate(8.000000, 448.000000)" id="Title">
+                <g>
+                    <g id="Group-8" transform="translate(16.000000, 9.000000)">
+                        <g id="ic_beginner">
+                            <circle id="Oval" fill="#1EDABE" cx="12" cy="12" r="12"></circle>
+                            <path d="M9.47277652,16.0695212 L11.3681938,16.0695212 L7.77592678,20.7629353 L6.54841847,19.8964589 L9.47277652,16.0695212 Z M17.740406,3.81248968 C18.0171971,3.81248968 18.2548764,3.91177344 18.4534439,4.11034096 C18.6520114,4.30890848 18.7512952,4.54658779 18.7512952,4.82337887 L18.7512952,12.7660797 L5.2487038,12.7660797 L5.2487038,4.82337887 C5.2487038,4.54658777 5.34798756,4.30890847 5.54655508,4.11034096 C5.7451226,3.91177345 5.9828019,3.81248969 6.25959299,3.81248968 L17.740406,3.81248968 L17.740406,3.81248968 Z M5.2487038,13.9033301 L18.7512952,13.9033301 L18.7512952,14.0116396 C18.7512952,14.2884307 18.6520114,14.52611 18.4534439,14.7246775 C18.2548764,14.923245 18.0171971,15.0225288 17.740406,15.0225288 L6.25959299,15.0225288 C5.98280189,15.0225288 5.74512259,14.923245 5.54655508,14.7246775 C5.34798757,14.52611 5.24870381,14.2884307 5.2487038,14.0116396 L5.2487038,13.9033301 L5.2487038,13.9033301 Z M13.8773652,16.0695212 L16.8197748,19.7520461 L15.6103181,20.6365742 L11.9458447,16.0695212 L13.8773651,16.0695212 L13.8773652,16.0695212 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

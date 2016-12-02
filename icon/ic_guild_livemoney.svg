@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_guild_livemoney</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.21726668,12.5824684 C8.32418218,11.7782789 7.83956622,11.3336687 6.21033954,9.76052536 C5.61948844,9.2187446 4.98374217,8.55389845 5.45503222,7.52043251 C5.92632227,6.48696658 7.12419029,6.59742379 7.83956631,6.46967637 C8.55494233,6.34192895 10.9641399,6.10560876 10.9641399,6.10560876 C11.9085616,6.00864246 12.6741667,6.70173017 12.6741668,7.66498133 C12.6741668,7.66498133 12.6741671,9.75725759 12.6741671,11.2750838 C12.6741671,11.8359295 12.7299,13.1575805 11.6628731,13.5345862 C10.5958462,13.9115918 10.1103512,13.3866578 9.21726668,12.5824684 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.38362619" height="7.56143595" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="会长服务号" transform="translate(-199.000000, -352.000000)" stroke="#FFBC00">
+            <g id="Group-3-Copy-21" transform="translate(0.000000, 340.000000)">
+                <g id="4" transform="translate(197.000000, 10.000000)">
+                    <g id="5" transform="translate(2.000000, 2.000000)">
+                        <path d="M10.4499363,1.01105112 C10.3008822,1.0037125 10.1508747,1 10,1 C6.47551241,1 3.42420701,3.02593379 1.9470967,5.97678846 M1.18722797,8.1649132 C1.06449387,8.75737636 1,9.37115651 1,10 C1,14.9705627 5.02943725,19 10,19 L10,19 C14.9705627,19 19,14.9705627 19,10 C19,6.00975884 16.4032415,2.62602313 12.8074489,1.44651733" id="Oval-177" stroke-width="1.5" stroke-linecap="round" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) "></path>
+                        <path d="M15.7848059,7.01766801 C14.8115024,5.34029477 12.7506869,3.93245095 10.3020215,3.72021286 C10.2018873,3.71153373 10.101201,3.70478366 10,3.7" id="Oval-175" stroke-linecap="round" transform="translate(12.892403, 5.358834) rotate(3.000000) translate(-12.892403, -5.358834) "></path>
+                        <use id="Rectangle-294" mask="url(#mask-2)" stroke-width="3" transform="translate(8.982853, 9.878465) rotate(-313.000000) translate(-8.982853, -9.878465) " xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

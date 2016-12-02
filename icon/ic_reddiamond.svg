@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_reddiamond</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.219607843   0 0 0 0 0.207843137   0 0 0 0 0.0745098039  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="任务系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新手任务" transform="translate(-87.000000, -524.000000)" fill="#FF6C58">
+            <g filter="url(#filter-1)" transform="translate(8.000000, 448.000000)" id="L1">
+                <g transform="translate(0.000000, 39.000000)">
+                    <g id="Group-4" transform="translate(16.000000, 14.000000)">
+                        <g id="Group-9-Copy" transform="translate(63.000000, 23.000000)">
+                            <g id="ic_reddiamond">
+                                <path d="M15.5253078,6.03917749 L11.3961886,2.31476223 C11.3336777,2.25920826 11.2540388,2.17814543 11.1716334,2.17814543 L6.61055201,2.17814543 L6.47230783,2.17814543 L4.4008218,2.17814543 C4.31143909,2.17814543 4.22549417,2.25981852 4.16129485,2.32422127 L0.493735465,6.01861173 C0.360149602,6.15231965 0.353680856,6.37467796 0.479109576,6.51672608 L7.8228737,14.7728692 C7.88788671,14.8464666 7.97981216,14.8105223 8.07623321,14.8105223 L8.07641629,14.8105223 L8.07700621,14.8105223 L8.07843014,14.8105223 C8.17562418,14.8105223 8.26813957,14.8517555 8.3330712,14.7769173 L15.5567769,6.52307279 C15.6185352,6.45187582 15.6500246,6.36969417 15.6441457,6.27435126 C15.6382059,6.1788456 15.5953656,6.10150535 15.5253078,6.03917749 Z M4.87232883,6.61267927 L7.15724305,12.9433512 L1.56616527,6.61267927 L4.87232883,6.61267927 Z M9.11572933,2.86975279 L10.6632057,5.92105155 L5.49387839,5.92105155 L6.76537492,2.86975279 L9.11572933,2.86975279 Z M10.5858857,6.61267927 L8.07879629,13.4975077 L5.59969744,6.61267927 L10.5858857,6.61267927 Z M11.3206181,6.61267927 L14.4773291,6.61267927 L9.02471925,12.8891398 L11.3206181,6.61267927 Z M14.4409169,5.92105155 L11.4417547,5.92105155 L9.89442076,2.86975279 L11.0439264,2.86975279 L14.4409169,5.92105155 Z M4.54018479,2.86975279 L6.01308738,2.86975279 L4.7396787,5.92105155 L1.52281648,5.92105155 L4.54018479,2.86975279 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

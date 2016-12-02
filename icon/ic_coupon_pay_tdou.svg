@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_coupon_pay_tdou</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.5541004,1.30293636 C14.9022772,0.574656084 12.7934938,1.21279332 11.8423351,2.64681534 C10.8911764,4.08083736 10.3326557,4.48428713 9.14148007,5.24064573 C7.95030441,5.99700432 6.81657299,6.08934588 5.44720371,6.33922097 C4.52773368,6.54749732 -0.966287909,6.57461509 1.7447029,12.6355086 C1.7447029,12.6355086 3.34282082,16.5601064 7.46956656,16.9619776 C8.31147384,17.0439643 9.64098103,17.0090268 10.9136059,16.7009081 C12.3461825,16.354063 13.7299636,15.6860013 14.7112123,14.9270351 C16.5641501,13.4938436 17.6189871,11.9555181 18.4539649,9.93169492 C19.2889428,7.90787174 19.0427593,4.9779615 18.5360605,3.74659393 C18.0293617,2.51522636 17.1212907,1.5530076 16.5541004,1.30293636 Z M7.5481631,7.63100687 C7.44305575,7.23105409 7.64367889,6.96918023 8.50473788,6.70645607 C8.87978955,6.59202125 9.36236368,6.4417853 9.91350222,6.08206297 C10.6276901,5.61592001 11.1307315,5.13365149 11.3181681,4.94530504 C11.6502496,4.61161172 12.0960195,4.83852583 12.1422545,5.21242341 C12.1919683,5.61504855 11.7146672,6.20764628 10.8809607,6.89229826 C10.3265632,7.34757754 9.64042988,7.6805912 9.28659134,7.80548474 C8.30764089,8.15102251 7.66002818,8.05642854 7.5481631,7.63100687 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.856725722   0 0 0 0 0.32865767  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="-1" dy="-2" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.968627451   0 0 0 0 0.8   0 0 0 0 0.168627451  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="代金券秒杀" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="订单支付" transform="translate(-16.000000, -286.000000)">
+            <g id="Group-3-Copy-20" transform="translate(0.000000, 270.000000)">
+                <g id="T币" transform="translate(16.000000, 16.000000)">
+                    <g id="Group-6" transform="translate(2.000000, 3.000000)">
+                        <g id="Shape" transform="translate(10.000000, 9.000000) rotate(-2.000000) translate(-10.000000, -9.000000) ">
+                            <use fill="#F9D655" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
